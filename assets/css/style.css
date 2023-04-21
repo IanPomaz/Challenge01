@@ -35,7 +35,7 @@ body {
 .header nav ul {
     list-style-type: none;
 }
-
+/* replaced div with nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
